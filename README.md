@@ -1,70 +1,45 @@
-# Getting Started with Create React App
+# 🌦 Weather App – Migración a React
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Demo en vivo: https://weather-app-wbtc.vercel.app/ 
 
-## Available Scripts
+Descripción
 
-In the project directory, you can run:
+Weather App es una aplicación de clima que originalmente desarrollé con HTML, CSS y JavaScript puro y que ahora está completamente migrada a React, demostrando mi capacidad para adaptar proyectos existentes a frameworks modernos y construir interfaces escalables y profesionales.
+La app consume APIs de clima y geolocalización para mostrar información detallada y confiable como: temperatura, sensación térmica, índice UV, humedad y pronóstico extendido. Además, ajusta automáticamente su tema de interfaz según el día o la noche, mejorando la experiencia del usuario.
 
-### `npm start`
+## Tecnologías y habilidades demostradas
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+React (componentes funcionales, hooks useState y useEffect)
+JavaScript (ES6+) y manejo de datos dinámicos
+CSS3 / Flexbox / Grid para diseño responsivo
+Consumo y manejo de APIs externas
+Gestión de estado y renderizado dinámico
+Optimización de UI/UX y manejo de errores
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+## Funcionalidades destacadas
 
-### `npm test`
+Búsqueda de clima por ciudad con autocompletado
+Tema dinámico claro/oscuro según hora del día
+Visualización avanzada de datos:
+Temperatura, sensación térmica y humedad
+Índice UV y pronóstico extendido
+Manejo de errores de API y fallback de información
+Interfaz moderna y completamente responsive
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+## Migración a React: lo que aprendí
 
-### `npm run build`
+Migrar la app de vanilla JS a React me permitió:
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+Crear componentes reutilizables, como SearchBar, WeatherCard y ForecastList.
+Gestionar el estado de la aplicación de forma eficiente con hooks.
+Mejorar la modularidad y mantenibilidad del código.
+Actualizar la UI de manera dinámica y sin recargar la página, optimizando la experiencia del usuario.
+Esta experiencia demuestra competencias clave para un desarrollador frontend junior, incluyendo React, manejo de APIs, desarrollo de UI responsiva y buenas prácticas de código.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+## Aprendizajes y logros profesionales
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+Migración completa de un proyecto existente a React
+Creación de una app modular, escalable y profesional
+Manejo de APIs externas y estados complejos
+Desarrollo de una UI/UX dinámica y responsiva
+Proyecto listo para portafolio profesional y entrevistas de frontend
