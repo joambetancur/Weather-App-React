@@ -27,7 +27,7 @@ La app consume APIs de clima y geolocalización para mostrar información detall
 ## Migración a React: lo que aprendí
 
 Migrar la app de vanilla JS a React me permitió:
-- Crear componentes reutilizables, como SearchBar, WeatherCard y ForecastList.
+- Crear componentes reutilizables, como SearchBar, WeatherCard, Loader, etc.
 - Gestionar el estado de la aplicación de forma eficiente con hooks.
 - Mejorar la modularidad y mantenibilidad del código.
 - Actualizar la UI de manera dinámica y sin recargar la página, optimizando la experiencia del usuario.
