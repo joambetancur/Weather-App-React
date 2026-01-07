@@ -1,0 +1,52 @@
+.main_info {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+    width: 100%;
+    max-width: 400px;
+}
+
+.temperature {
+    font-size: 4rem;
+    margin-bottom: 0.3px;
+    width: 100%;
+}
+
+.time_location {
+    font-size: 1.5rem;
+    line-height: 1.6;
+    display: flex;
+    flex-direction: column;
+    margin-top: -10px;
+}
+
+.time_location p {
+    font-weight: 700;
+    letter-spacing: 1px;
+    text-transform: uppercase;
+    margin-bottom: 5px;
+}
+
+.time_location span {
+    font-size: 1rem;
+    font-weight: 300;
+    opacity: 0.8;
+}
+
+.condition {
+    margin: 0.5rem;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+@media (max-width: 480px) {
+    .temperature {
+        font-size: 3rem;
+    }
+
+    .time_location p {
+        font-size: 1.2rem;
+    }
+}
