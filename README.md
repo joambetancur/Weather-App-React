@@ -2,10 +2,12 @@
 
 Demo en vivo: https://weather-app-wbtc.vercel.app/ 
 
-Descripción
+## Descripción
 
 Weather App es una aplicación de clima que originalmente desarrollé con HTML, CSS y JavaScript puro y que ahora está completamente migrada a React, demostrando mi capacidad para adaptar proyectos existentes a frameworks modernos y construir interfaces escalables y profesionales.
 La app consume APIs de clima y geolocalización para mostrar información detallada y confiable como: temperatura, sensación térmica, índice UV, humedad y pronóstico extendido. Además, ajusta automáticamente su tema de interfaz según el día o la noche, mejorando la experiencia del usuario.
+
+## Pantalla Principal: <img width="527" height="361" alt="App" src="https://github.com/user-attachments/assets/37ed4be1-c07f-4b1d-9c42-e797bf6ea982" />
 
 ## Tecnologías y habilidades demostradas
 
